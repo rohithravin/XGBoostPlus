@@ -1,6 +1,7 @@
 from math import e
 import numpy as np
 
+# Original XGBoost Code is from https://github.com/Ekeany/XGBoost-From-Scratch
 
 class Node:
 
